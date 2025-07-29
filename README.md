@@ -5,7 +5,6 @@ A backend-focused University Student Portal built with Spring Boot, Oracle DB, a
 # university-student-portal
 A backend-focused University Student Portal built with Spring Boot, Oracle DB, and REST APIs.
 
->>>>>>> 3259b59d973870d36ea5b69ffae31a8faad3a030
 # 🎓 University Student Portal (Backend)
 
 A Spring Boot backend system simulating a University Student Portal where students can be enrolled in courses and queried for their academic data. Built with Oracle Database and REST APIs using Spring Boot, JPA, and layered architecture.
